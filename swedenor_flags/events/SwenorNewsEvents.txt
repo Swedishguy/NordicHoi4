@@ -1,0 +1,98 @@
+﻿###########################
+# News Events
+###########################
+
+add_namespace = swenornews
+
+# Two brothers, reunited
+news_event = {
+	id = swenornews.1
+	title = swenornews.1.title
+	desc = swenornews.1.desc
+	picture = swenornews_event1
+	
+	major = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = swenornews.1.a
+		trigger = {
+			NOT = {
+				TAG = SWE
+				TAG = NOR
+			}
+		}
+	}
+	option = {
+		name = swenornews.1.b
+		trigger = { TAG = SWE }
+	}
+	option = {
+		name = swenornews.1.c
+		trigger = { TAG = NOR }
+	}
+}
+
+
+# First round of negotiations
+news_event = {
+	id = swenornews.2
+	title = swenornews.2.title
+	desc = swenornews.2.desc
+	picture = swenornews_event2
+	
+	major = no
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = swenornews.2.a
+		trigger = {
+			NOT = {
+				TAG = SWE
+				TAG = NOR
+			}
+		}
+	}
+	option = {
+		name = swenornews.2.b
+		trigger = { TAG = SWE }
+	}
+	option = {
+		name = swenornews.2.c
+		trigger = { TAG = NOR }
+	}
+}
+
+
+
+# Second round of negotiations
+news_event = {
+	id = swenornews.3
+	title = swenornews.3.title
+	desc = swenornews.3.desc
+	picture = swenornews_event2
+	
+	major = no
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = swenornews.3.a
+		trigger = {
+			NOT = {
+				TAG = SWE
+				TAG = NOR
+			}
+		}
+	}
+	option = {
+		name = swenornews.3.b
+		trigger = { TAG = SWE }
+	}
+	option = {
+		name = swenornews.3.c
+		trigger = { TAG = NOR }
+	}
+}

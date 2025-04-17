@@ -1,0 +1,182 @@
+#########################################
+# Custom Swedish-norwegian union events #
+#########################################
+
+
+add_namespace = SWENOR_question_of_norway
+add_namespace = SWENOR_talks_for_norway
+
+
+
+#country_event = { # Start of the full reunification
+#
+#    id = 
+#    title = 
+#    desc = 
+#    picture = 
+#
+#    is_triggered_only = yes
+#
+#    option = { 
+#        name = 
+#        ai_chance = { factor = 5 }
+#        effect_tooltip = {
+#            hidden_effect = {
+#            }
+#        }
+#    }
+#
+#    option = { 
+#        name = 
+#        ai_chance = { factor = 95 }
+#        effect_tooltip = {
+#        }
+#    }
+#
+#}
+
+
+country_event = { 
+	id = SWENOR_question_of_norway.1
+	title = SWENOR_question_of_norway.1.t
+	desc = SWENOR_question_of_norway.1.desc
+	picture = GFX_report_event_generic_rifles
+	is_triggered_only = yes
+
+	option = {
+		name = SWENOR_question_of_norway.1.a
+		ai_chance = {
+			base = 100
+		}
+		NOR = {
+        country_event = { id = SWENOR_question_of_norway.2 days = 1 }
+		}
+	}
+    
+}
+
+
+
+
+
+
+
+
+country_event = { 
+	id = SWENOR_question_of_norway.2
+	title = SWENOR_question_of_norway.2.t
+	desc = SWENOR_question_of_norway.2.desc
+	picture = GFX_report_event_generic_rifles
+	is_triggered_only = yes
+
+	option = {
+		name = SWENOR_question_of_norway.2.a
+		ai_chance = {
+			base = 10
+		}
+        complete_national_focus = "SWENOR_norway_hostile"
+	}
+
+    option = {
+		name = SWENOR_question_of_norway.2.b
+		ai_chance = {
+			base = 10
+			modifier = {
+				factor = 100
+				FROM = { #FROM = SWE
+					is_ai = yes
+				}
+				is_historical_focus_on = yes
+			}
+
+			modifier = {
+				factor = 20
+				has_opinion = {
+					target = FROM
+					value >  70
+				}
+			}
+		}
+        complete_national_focus = "SWENOR_norway_peaceful"
+	}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+country_event = { 
+	id = SWENOR_talks_for_norway.1
+	title = SWENOR_talks_for_norway.1.t
+	desc = SWENOR_talks_for_norway.1.desc
+	picture = GFX_report_event_generic_rifles
+	is_triggered_only = yes
+
+	option = {
+		name = SWENOR_talks_for_norway.1.a
+		ai_chance = {
+			base = 10
+		}
+	}
+
+    option = {
+		name = SWENOR_talks_for_norway.1.b
+		ai_chance = {
+			base = 10
+		}
+	}
+    
+}
+
+
+
+

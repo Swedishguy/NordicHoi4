@@ -1,0 +1,13 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_king_haakon_vii"
+		texturefile = "gfx/leaders/NOR/Portrait_Norway_Haakon_VII.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_Carl_Gustaf_Jr"
+		texturefile = "gfx/leaders/NOR/Portrait_Sweden_Gustaf_Adolf.dds"
+	}
+
+}

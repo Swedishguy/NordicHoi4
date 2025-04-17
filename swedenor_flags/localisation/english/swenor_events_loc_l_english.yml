@@ -1,0 +1,250 @@
+﻿l_english:
+
+
+
+ ##################
+ #capital renaming#
+ ##################
+
+ "Kristiania":="Kristiania"
+
+
+
+ swenor.1.title:0 "The Swedish Government proposes a restoration of the union."
+ swenor.1.desc:0 "Earlier today, Swedish diplomats approached our government with a proposition to further restore the Union between Norway and Sweden that was dissolved in 1905.\n\nWhile this may be a disguise of Swedish imperialism, we might be able to negotiate for this proposed union to be a dual-monarchy, or even a defensive pact instead.\n\nIf the Swedish government refuses to negotiate, we will have no choice but to deny their proposition, or give into their imperialist rule."
+ swenor.1.a:0 "What good were the Karlstad negotiations?"
+ swenor.1.b:0 "Perhaps they're open to negotiations?"
+ swenor.1.c:0 "No. We must not let our independence come further into question."
+
+
+
+
+ swenor.2.title:0 "The restoration of the great Swedish-Norwegian union!"
+ swenor.2.desc:0 "Today, [GetDateText], no one can say that Sweden and Norway are anything but two brothers united, for today marks the complete reintegration of Norway into our great kingdom, and unlike less than half a decade ago, we will not let them escape our grasp as easily. \n\nWhile the Norwegian population is displeased with their fate, they can not do anything to stop it. \n\nThis is but one step in our goals to re-establish our mighty empire. We shall reclaim our stolen lands! \n\nLänge leve [Root.GetLeader], och bevare Gud vår kung!"
+ swenor.2.a:0 "Hurra!"
+
+
+
+ swenor.3.title:0 "Norway requests negotiations"
+ swenor.3.desc:0 "A messenger from Oslo arrived earlier today, informing us that the Storting would like to negotiate and discuss some points before the Union is fully restored.\n\nSome in the Rikstag are thinking that this might a sly attempt to avoid the union altogether, however." 
+ swenor.3.a:0 "Fine, inform them we're willing to negotiate."
+ swenor.3.b:0 "Send a final ultimatum to the Storting, let them know there will be no negotiations."
+
+
+
+
+ swenor.4.title:0 "The Swedish propose renaming of the capital"
+ swenor.4.desc:0 "Earlier today, a letter was delivered to us, explaining that the Swedish Rikstag, and especially the King himself, would like to propose a renaming of our capital, returning to what it was called during the union days.\n\nSome Swedish extremists even proposed renaming of our capital to "Karlstad", to honor the late Swedish king Karl XII who died in narvik during the Great northern war.\n\nIt would seem as the Swedish wouldn't mind all too much if we kept our current name, which some in the Storting are suggesting we do" 
+ swenor.4.a:0 "Let us return to the old, Kristiania it shall be!"
+ swenor.4.b:0 "Appease the extremists, let us honor the fallen king!"
+ swenor.4.c:0 "We musn't slip further under their thumb. Oslo is Oslo."
+
+
+
+
+ swenor.5.title:0 "First Phase of Negotiations"
+ swenor.5.desc:0 "During these few weeks since the Swedish Rikstag officially declared they were willing to negotiate, our Storting has been working on three points to present to the Swedish Rikstag in hopes for a more favourable outcome of our nation.\n\nThe first proposal, so-called "The Narvik Solution" would see the Swedish hand over the newly-annexed lands of Nordland, Finnmark and Troms.\n\nThe second proposal, "The Monarchy Compromise" would let us keep our king, having the union work as a dual-monarchy instead of the initial proposed single Swedish king ruling us.\n\nThe third proposal "Northern Lights", albeit extremely unlikely to be accepted by the swedish Riksdag, is to have a mutual defence pact, instead of a union.\n\nIt is likely we could push the first two, but the third would have to be its own."
+ swenor.5.a:0 "It's only fair, it was ours not long ago. Send them "The Narvik Solution.""
+ swenor.5.b:0 "Compromise is the best we can do. Send them "The Monarchy Compromise.""
+ swenor.5.c:0 "We must remain independent of them. Send them the "Northern Lights.""
+
+
+
+ swenor.6.title:0 ""The Narvik Solution""
+ swenor.6.desc:0 "The Norwegian Storting approached us earlier today with a document, clearly written how they wished for the return of our lands that used to be theirs only some months ago, Nordland, Finnmark and Troms." 
+ swenor.6.a:0 "If it means reunification? Fine, they can have their northern territories back."
+ swenor.6.b:0 "No, they willingly ceded those lands to us. Why give them back?"
+ 
+ 
+ 
+ 
+ swenor.7.title:0 ""The Dual Monarchy Compromise""
+ swenor.7.desc:0 "Today, the Norwegian Storting approached us with a document, describing a plan wherein, with meticilus planning and trust between our two kings, governments and ministers, we could reach a working compromise. Where their king, King Haakon VII, would merely act as a figurehead and docile regent of Norway, and [SWE.GetLeader] could still have control." 
+ swenor.7.a:0 "Our king already has quite a good relationship with King Haakon, why squander it?. We agree to the compromise!"
+ swenor.7.b:0 "If someone is going to rule them, its going to be someone of our choosing."
+
+
+
+
+ swenor.8.title:0 ""
+ swenor.8.desc:0 "" 
+ swenor.8.a:0 ""
+ swenor.8b:0 ""
+
+
+
+
+ swenor.9.title:0 "The Swedes agree!"
+ swenor.9.desc:0 "Today, we recieved a response from the Swedish Riksdag, and suprisingly they stated they're willing to hand over our northern lands on the condition that we join the union!\n\n" 
+ swenor.9.a:0 "Prepare for tomorrow..."
+
+ 
+
+
+ swenor.10.title:0 "The Swedes refuse!"
+ swenor.10.desc:0 "Today, we recieved a response from the Swedish Riksdag, and unfortuantely for all norwegians living in these newly annexed territories, they shall remain Swedish for the time being." 
+ swenor.10.a:0 "Those damned Swedes..."
+
+
+
+
+ swenor.11.title:0 "Dual monarchy implemented!"
+ swenor.11.desc:0 "Hurra!\n\nWe've managed to keep our king, and kept our independence within our souls, while we may be under Swedish rule once again, we will one day earn our independence once more!\n\nLenge leve Kong Haakon! For alt vi har, og alt vi er, alt for Norge!" 
+ swenor.11.a:0 "Lenge leve Kong Haakon!"
+
+
+
+
+ swenor.12.title:0 "The "Dual Monarchy" proposal backfires!"
+ swenor.12.desc:0 "An utter failure!\n\nDespite our attempts at negotiating on peaceful terms, the Swedes have outright slapped our diplomats away, and forced our government to dissolve so that they may install a regent, a Swedish prince.\n\nWe will one day reclaim our independence! Lenge leve Haakon, lenge leve Norge!" 
+ swenor.12.a:0 "Further under their rule..."
+
+
+
+
+ swenor.13.title:0 "Now begins the second round..."
+ swenor.13.desc:0 "With how the Swedish Riksdag responded to our previous proposal, maybe it would be foolish to risk further negotiations?\n\nThe fate of Norway and her future regent could very well be at stake here..." 
+ swenor.13.a:0 "Have hope, send them the "Dual Monarchy Compromise""
+ swenor.13.b:0 "No, we're not at a position to negotiate further."
+
+
+
+
+ swenor.14.title:0 "Now begins the second round..."
+ swenor.14.desc:0 "With how the Swedish Riksdag responded to our previous proposal, maybe it would be foolish to risk further negotiations?\n\nThe fate of Norway and her territory could very well be at stake here..." 
+ swenor.14.a:0 "Have hope, send them the "Narvik Solution""
+ swenor.14.b:0 "No, we're not at a position to negotiate further."
+
+
+
+
+ swenor.15.title:0 ""
+ swenor.15.desc:0 "" 
+ swenor.15.a:0 ""
+ swenor.15.b:0 ""
+
+
+
+
+ swenor.16.title:0 ""The Narvik Solution""
+ swenor.16.desc:0 "The Norwegian Storting approached us earlier today with a document, clearly written how they wished for the return of our lands that used to be theirs only some months ago, Nordland, Finnmark and Troms." 
+ swenor.16.a:0 "If it means reunification? Fine, give them their northern territories back."
+ swenor.16.b:0 "First their own king, now they want our land? I think not."
+ 
+ 
+ 
+ 
+ swenor.17.title:0 ""The Dual Monarchy Compromise""
+ swenor.17.desc:0 "Today, the Norwegian Storting approached us with a document, describing a plan wherein, with meticilus planning and trust between our two kings, governments and ministers, we could reach a working compromise. Where their king, King Haakon VII, would merely act as a figurehead and docile regent of Norway, and [SWE.GetLeader] could still have control." 
+ swenor.17.a:0 "Our King has quite a good relationship with King Haakon, We agree to the compromise!"
+ swenor.17.b:0 "First our land, and now they demand a Norwegian king? Send them the Prince!"
+
+
+
+
+
+
+
+ swenor.19.title:0 "The Swedes agree!"
+ swenor.19.desc:0 "Today, we recieved a response from the Swedish Riksdag, and suprisingly they stated they're willing to hand over our northern lands on the condition that we join the union!\n\n" 
+ swenor.19.a:0 "Prepare for tomorrow..."
+
+ 
+
+
+ swenor.20.title:0 "The Swedes refuse!"
+ swenor.20.desc:0 "Today, we recieved a response from the Swedish Riksdag, and unfortuantely for all norwegians living in these newly annexed territories, they shall remain Swedish for the time being." 
+ swenor.20.a:0 "Those damned Swedes..."
+
+
+
+
+ swenor.21.title:0 "Dual monarchy implemented!"
+ swenor.21.desc:0 "Hurra!\n\nWe've managed to keep our king, and kept our independence within our souls, while we may be under Swedish rule once again, we will one day earn our independence once more!\n\nLenge leve Kong Haakon! For alt vi har, og alt vi er, alt for Norge!" 
+ swenor.21.a:0 "Lenge leve Kong Haakon!"
+
+
+
+
+ swenor.22.title:0 "The "Dual Monarchy" proposal backfires!"
+ swenor.22.desc:0 "An utter failure!\n\nDespite our attempts at negotiating on peaceful terms, the Swedes have outright slapped our diplomats away, and forced our government to dissolve so that they may install a regent, a Swedish prince.\n\nWe will one day reclaim our independence! Lenge leve Haakon, lenge leve Norge!" 
+ swenor.22.a:0 "Further under their rule..."
+
+
+
+
+ swenor.23.title:0 "It is time."
+ swenor.23.desc:0 "The negotiations are concluded, none in the Storting can think of any more proposals that wouldn't cause unneccessary uproar in either our beloved Norway, or in the Swedish Riksdag.\n\nPreperations for the reunification are already underway, with several ministers home, with their families.\n\n All that's left now is a speech..." 
+ swenor.23.a:0 "Let [NOR.GetLeader] speak to the people."
+
+
+
+
+ swenor.24.title:0 "[NOR.GetLeader] gives a speech."
+ swenor.24.desc:0 "Earlier today, [NOR.GetLeader] gave a speech from a balcony in Oslo. Encouraging his fellow Norwegian to remain calm during these turbulent times, and have faith in his ability to keep Norway self-governing. " 
+ swenor.24.a:0 "Tell the Swedish we accept the reunification."
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############
+# NEWS EVENTS #
+###############
+
+ swenornews.1.title:0 "Two brothers, reunited"
+ swenornews.1.desc:0 "Today, [GetDateText], mirroring the 4th of november 1814, the two kings of Sweden and Norway, accompanied by King Christian X of denmark, met in the Royal palace in Stockholm to finalize the restoration of the Swedish-Norwegian union. Hours of talking among the royals later, they appeared on a balcony to formally announce the reunification of Sweden-norway. \n\nCheering can be heard in several districts of Stockhom, and a parade in both Stockholm and Oslo is rumored to be planned. \n\nIn [NOR.Capital.GetName] however, the sentiment is vastly different, reports of civil unrest having been reported, and large gatherings outside of the Storting objecting to the newly formed Union."
+ swenornews.1.a:0 "Is this the end or merely the start of Swedish imperialism?"
+ swenornews.1.b:0 "Once again, we rule Scandinavia."
+ swenornews.1.c:0 "What will become of Norwegian independence?"
+
+ swenornews.2.title:0 "Negotiations about the Reunification of Sweden-Norway!"
+ swenornews.2.desc:0 "\n\nToday, the King of Sweden made a public broadcast, informing both Swedish citizens, aswell as his fellow Nordic nations, that discussions are underway regarding the restoration of Sweden-Norway. "
+ swenornews.2.a:0 "We will watch, cautiously."
+ swenornews.2.b:0 "Why must the Norwegians be so stubborn?"
+ swenornews.2.c:0 "Hopefully this means we wont get such an unfair deal, right?"
+
+ swenornews.3.title:0 "The second round of Negotiations about the Swedish-norwegian union!"
+ swenornews.3.desc:0 "\n\nEarlier today, [NOR.GetLeader] announced that he is continuing to negotiate with the Swedish government and Royal family in order to preserve some of Norways independent systems.\n\nThe whole of northern europe is looking towards two cities right now, Oslo and Stockholm for their continued negotiations."
+ swenornews.3.a:0 "The room where it happens..."
+ swenornews.3.b:0 "The Norwegians are pushing their luck..."
+ swenornews.3.c:0 "Should we really be pushing further?"

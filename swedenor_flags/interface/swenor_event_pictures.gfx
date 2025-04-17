@@ -1,0 +1,36 @@
+spriteTypes = {
+	
+		spriteType = {
+		name = "swenor_event1"
+		texturefile = "gfx/event_pictures/swenor_event1.dds"
+	}
+}
+
+spriteTypes = {
+	
+		spriteType = {
+		name = "swenor_event2"
+		texturefile = "gfx/event_pictures/swenor_event2.dds"
+	}
+}
+
+spriteTypes = {
+	
+		spriteType = {
+		name = "swenor_event3"
+		texturefile = "gfx/event_pictures/swenor_event3.dds"
+	}
+}
+	
+spriteTypes = {
+	
+		spriteType = {
+		name = "swenornews_event1"
+		texturefile = "gfx/event_pictures/swenornews_event1.dds"
+	}
+}
+	
+
+
+
+	swenor_event3
